@@ -2,7 +2,7 @@
 
 Testing txt
 
-Visualizing Bitcoin Data
+Visualizing Bitcoin Data from different sources
 
 Group Members:
     - Ruggles Bohannon
